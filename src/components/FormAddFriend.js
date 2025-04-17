@@ -9,7 +9,7 @@ export default function FormAddFriend() {
       <label>🌄 Image URL</label>
       <input type="text" />
 
-      <Button>Add</Button>
+      <Button>Add </Button>
     </form>
   );
 }
